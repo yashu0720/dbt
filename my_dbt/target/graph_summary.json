@@ -1,0 +1,1 @@
+{"_invocation_id": "2e28c03c-3cca-4ed9-89f4-15ad19287e84", "linked": {"0": {"name": "source.my_dbt.dbt.2010_summary", "type": "source", "succ": [1]}, "1": {"name": "model.my_dbt.dbt_model", "type": "model"}}}
